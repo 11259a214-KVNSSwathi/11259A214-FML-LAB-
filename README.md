@@ -20,17 +20,3 @@ Fundamentals of Machine Learning laboratory programs with source code, dataset f
 | 12 | Neural Network | [Code](Experiment-10-Neural_Network/neural_network.py) | [Output](Experiment-10-Neural_Network/output/output.txt) |
 
 
-## Folder Structure
-
-Each experiment is stored in its own folder with:
-- Python source code
-- `data.csv` where required
-- `output/` folder containing text output and graphs
-
-## Dataset
-
-The supplied `data.csv` is used for the machine-learning experiments that require tabular input.
-
-## Note
-
-Generated output files are included for convenience. Graph-based experiments also contain PNG output images.
